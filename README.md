@@ -10,4 +10,6 @@ This is a dashboard titled "HR Dataset Report." It displays a series of visualiz
 - Count of EmpID by RecruitmentSource: A bar chart that breaks down the number of employees by their recruitment source (e.g., LinkedIn, Google Search, etc.).
 
 - Count of EmpID by Position: A donut chart showing the distribution of employees across different job positions.
+
+## Dashboard
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/93386977-f78b-46c0-8e39-ed7501ba1df5" />
